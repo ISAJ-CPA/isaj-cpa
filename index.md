@@ -2,7 +2,8 @@
 layout: default
 title: ホーム
 ---
-<img width="1265" height="488" alt="NXVH2802" src="https://github.com/user-attachments/assets/0d4476b5-ccc6-4ec5-b95c-3cd8f17bfa13" />
+
+![Top](assets/NXVH2802.JPEG)
 
 ## 新着コラム
 
