@@ -3,7 +3,7 @@ layout: default
 title: ホーム
 ---
 
-![Top](assets/NXVH2802.JPEG)
+![Top](assets/top.JPG)
 
 ## 新着コラム
 
