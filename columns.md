@@ -3,6 +3,5 @@ layout: page
 title: コラム一覧
 ---
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }})  
-  {{ post.date | date: "%Y-%m-%d" }}
+- {{ post.date | date: "%Y-%m-%d" }}：[{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
