@@ -53,6 +53,22 @@
 .post-content h2 + ul,
 .post-content h2 + ol,
 .post-content h3 + p,
+
+/* トップページの新着コラム一覧 */
+.post-list {
+  margin-top: 0.6em;
+  margin-bottom: 1em;
+}
+
+.post-list > li {
+  margin-bottom: 0.65em;
+  line-height: 1.6;
+}
+
+/* コラム一覧を見る、の上余白 */
+.post-list + p {
+  margin-top: 0.8em;
+}
 .post-content h3 + ul,
 .post-content h3 + ol {
   margin-top: 0;
